@@ -27,7 +27,7 @@ p {
 /* TRANSITION */
 
 a, .btn {
-    transition: all 300ms ease;
+    transition: all 500ms ease;
 
 }
 
@@ -61,4 +61,15 @@ a:hover {
     text-decoration: underline;
     text-underline-offset: 1rem; 
     /* The gap between the text and the underline  */
+    text-decoration-color: rgb(181, 181, 181);
+}
+
+.logo {
+    font-size: 2rem;
+    /* This changes the size of my name at the top  */
+}
+
+.logo:hover {
+    cursor: default;
+    /* This makes the cursor stay default instead of changing when hovering over my name  */
 }
