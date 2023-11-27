@@ -32,15 +32,26 @@ cd html-css-js-portfolio-website
 
 ## Screenshots
 
-![The screenshot of the first page](/assets/screenshots/1.PNG)
+<p align="center">
+  <img src="/assets/screenshots/1.PNG" alt="First Page Screenshot" />
+</p>
 
-![The screenshot of the second page](/assets/screenshots/2.PNG)
+<p align="center">
+  <img src="/assets/screenshots/2.PNG" alt="Second Page Screenshot" />
+</p>
 
-![The screenshot of the third page](/assets/screenshots/3.PNG)
+<p align="center">
+  <img src="/assets/screenshots/3.PNG" alt="Third Page Screenshot" />
+</p>
 
-![The screenshot of the fourth page](/assets/screenshots/4.PNG)
+<p align="center">
+  <img src="/assets/screenshots/4.PNG" alt="Fourth Page Screenshot" />
+</p>
 
-![The screenshot of the last page](/assets/screenshots/5.PNG)
+<p align="center">
+  <img src="/assets/screenshots/5.PNG" alt="Last Page Screenshot" />
+</p>
+
 
 ## Contributing
 Contributions to improve the website are welcome. Please follow these steps:
