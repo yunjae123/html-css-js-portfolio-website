@@ -33,6 +33,10 @@ cd html-css-js-portfolio-website
 ## Screenshots
 
 ![The screenshot of the first page](/assets/screenshots/1.PNG)
+![The screenshot of the first page](/assets/screenshots/2.PNG)
+![The screenshot of the first page](/assets/screenshots/3.PNG)
+![The screenshot of the first page](/assets/screenshots/4.PNG)
+![The screenshot of the first page](/assets/screenshots/5.PNG)
 
 ## Contributing
 Contributions to improve the website are welcome. Please follow these steps:
