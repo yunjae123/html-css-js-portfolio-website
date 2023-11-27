@@ -1,6 +1,6 @@
 # Yun Chang's Front-end Portfolio
 
-## Welcome to the repository for my personal portfolio website. This project showcases my skills and experiences as a Frontend Developer, highlighting my projects, experience, education, and contact information. The website is built with modern web technologies and is designed to be responsive and user-friendly.
+### Welcome to the repository for my personal portfolio website. This project showcases my skills and experiences as a Frontend Developer, highlighting my projects, experience, education, and contact information. The website is built with modern web technologies and is designed to be responsive and user-friendly.
 
 ## Features
 * Responsive Design: Adapts to various screen sizes, ensuring a seamless experience on desktops, tablets, and mobile devices.
