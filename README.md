@@ -67,5 +67,5 @@ Contributions to improve the website are welcome. Please follow these steps:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-University of Colorado Denver for the educational foundation.
+MSU Denver for the educational foundation.
 All the open-source contributors whose tools and libraries made this project possible.
